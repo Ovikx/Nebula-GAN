@@ -1,0 +1,8 @@
+__pycache__/
+models[0-9]/
+nebula_images/
+seq[0-9]/
+test_images/
+training_checkpoints/
+image_downloader.py
+progress_bar.py
